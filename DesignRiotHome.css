@@ -13,8 +13,8 @@ h2 {
 }
 
 #logo {
+  padding: 10%;
   width: 50%;
-  max-width: 1000px;
   object-fit: contain;
 }
 
