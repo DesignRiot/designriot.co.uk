@@ -22,8 +22,8 @@ body {
 	background-image: url("softwood_sky_bw.gif");
 	background-repeat: no-repeat;
 	background-position: center;
-	/*top: 0;
-	left: 0;*/
+	top: 50%;
+	left: 50%;
 	width: auto;
   	height: 100%;
   	/*min-height: 150%;
