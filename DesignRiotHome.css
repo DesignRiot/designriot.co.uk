@@ -13,7 +13,7 @@ h2 {
 
 img {
 	width: 70%;
-	max-width: 800px;
+	/*max-width: 800px;*/
 	object-fit: contain;
 }
 
