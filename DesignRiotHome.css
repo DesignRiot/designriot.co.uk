@@ -25,9 +25,9 @@ h2 {
 	transform: translate(-50%, -50%);
 }*/
 
-/*#sky {
-	width: 100%;
+#sky {
+	width: 300%;
   	height: auto;
-  	min-height: 100%;
-  	min-width: 1024px;
-}*/
+  	/*min-height: 100%;
+  	min-width: 1024px;*/
+}
