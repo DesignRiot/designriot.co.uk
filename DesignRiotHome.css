@@ -19,5 +19,7 @@ img {
 }
 
 .background {
-	background-image: 100%;
+	background-image: url("softwood_sky_bw.gif");
+	background-size: cover;
+	background-position: center;
 }
