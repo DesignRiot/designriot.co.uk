@@ -25,15 +25,16 @@ h2 {
 	transform: translate(-50%, -50%);
 }*/
 
-#sky {
-	position: fixed;
+body {
+	background-image: url(softwood_sky_bw.gif);
+	background-position: fixed;
     top: 0;
     bottom: 0;
     left: 0;
     right: 0;
-    min-width: auto;
-    min-height: 50%;
-    margin: auto;
+   /* min-width: auto;
+    min-height: 50%;*/
+   /* margin: auto;
     overflow: auto;
-    object-fit: contain;
+    object-fit: contain;*/
 }
