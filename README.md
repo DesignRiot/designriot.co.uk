@@ -1,1 +1,1 @@
-www.designriot.co.uk
+This is a repository for designriot.co.uk.
