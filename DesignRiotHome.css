@@ -18,8 +18,7 @@ img {
 	object-fit: contain;
 }
 
-body {
-	background-image: url("softwood_sky_bw.gif");
+.backer {
 	background-repeat: no-repeat;
 	background-position: fixed;
 	top: 50%;
