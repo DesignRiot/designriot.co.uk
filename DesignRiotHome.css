@@ -21,11 +21,11 @@ img {
 body {
 	background-image: url("softwood_sky_bw.gif");
 	background-repeat: no-repeat;
-	background-position: fixed;
-	top: 0;
-	left: 0;
-	width: 150%;
-  	height: auto;
-  	min-height: 150%;
-  	min-width: 1024px;
+	background-position: center;
+	/*top: 0;
+	left: 0;*/
+	width: auto;
+  	height: 100%;
+  	/*min-height: 150%;
+  	min-width: 1024px;*/
 }
