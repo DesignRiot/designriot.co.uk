@@ -31,9 +31,9 @@ h2 {
     bottom: 0;
     left: 0;
     right: 0;
-    /*min-width: 100%;
-    min-height: 100%;
+    max-width: 300%;
+    max-height: 300%;
     margin: auto;
-    overflow: auto;*/
+    overflow: auto;
     object-fit: contain;
 }
