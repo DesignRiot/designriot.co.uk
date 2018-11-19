@@ -20,6 +20,6 @@ img {
 
 body {
 	background-image: url("softwood_sky_bw.gif");
-	background-size: cover;
+	background-size: 100%;
 	background-position: center;
 }
