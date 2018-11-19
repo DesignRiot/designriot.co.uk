@@ -30,8 +30,9 @@ body {
   background-attachment: fixed;
   background-repeat: no-repeat;
   background-size: cover;
-  top: 0;
-  bottom: 0;
-  left: 0;
-  right: 0;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  height: 100%;
+  overflow: hidden;
 }
