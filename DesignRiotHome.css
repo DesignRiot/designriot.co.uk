@@ -28,6 +28,7 @@ h2 {
 body {
 	background-image: url(softwood_sky_bw.gif);
 	background-position: fixed;
+	background-repeat: no-repeat;
     top: 0;
     bottom: 0;
     left: 0;
