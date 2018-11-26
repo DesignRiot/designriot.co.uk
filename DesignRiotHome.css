@@ -25,7 +25,7 @@ h2 {
 }*/
 
 body {
-  background-image: url("Mountain.jpg");
+  background: #F5F7F7;
   background-position: center;
   background-attachment: fixed;
   background-repeat: no-repeat;
