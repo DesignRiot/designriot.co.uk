@@ -1,0 +1,52 @@
+
+h2 {
+  font-family: 'Raleway', sans-serif;
+  font-size: 50px;
+}
+
+.centered {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  /* bring your own prefixes */
+  transform: translate(-50%, -50%);
+}
+
+#logo {
+  max-height: 65%;
+  object-fit: contain;
+}
+
+/*.backer {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}*/
+
+body {
+  background: #F5F7F7;
+  background-position: center;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  height: 100%;
+  min-height: 100%;
+  overflow: hidden;
+}
+
+@media screen and (max-width: 1440px)
+{
+  body {
+    background-image: url(softwood_sky_bw.gif);
+    background-size: cover;
+    height: 100%;
+    min-height: 100%;
+    overflow: hidden;
+    }
+}
+
+#F5F7F7
